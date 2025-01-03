@@ -1,0 +1,521 @@
+,Player Full Name,Player First Name,Player Last Name,Player API ID,Teams
+0,Precious Achiuwa,Precious,Achiuwa,1630173,"['Miami Heat', 'Toronto Raptors']"
+1,Steven Adams,Steven,Adams,203500,"['Oklahoma City Thunder', 'New Orleans Pelicans', 'Memphis Grizzlies']"
+2,Bam Adebayo,Bam,Adebayo,1628389,['Miami Heat']
+3,Ochai Agbaji,Ochai,Agbaji,1630534,['Utah Jazz']
+4,Santi Aldama,Santi,Aldama,1630583,['Memphis Grizzlies']
+5,Nickeil Alexander-Walker,Nickeil,Alexander-Walker,1629638,"['New Orleans Pelicans', 'Utah Jazz', 'Minnesota Timberwolves']"
+6,Grayson Allen,Grayson,Allen,1628960,"['Utah Jazz', 'Memphis Grizzlies', 'Milwaukee Bucks', 'Phoenix Suns']"
+7,Jarrett Allen,Jarrett,Allen,1628386,"['Brooklyn Nets', 'Cleveland Cavaliers']"
+8,Jose Alvarado,Jose,Alvarado,1630631,['New Orleans Pelicans']
+9,Kyle Anderson,Kyle,Anderson,203937,"['San Antonio Spurs', 'Memphis Grizzlies', 'Minnesota Timberwolves']"
+10,Giannis Antetokounmpo,Giannis,Antetokounmpo,203507,['Milwaukee Bucks']
+11,Thanasis Antetokounmpo,Thanasis,Antetokounmpo,203648,"['New York Knicks', 'Milwaukee Bucks']"
+12,Cole Anthony,Cole,Anthony,1630175,['Orlando Magic']
+13,OG Anunoby,OG,Anunoby,1628384,['Toronto Raptors']
+14,Ryan Arcidiacono,Ryan,Arcidiacono,1627853,"['Chicago Bulls', 'New York Knicks', 'Portland Trail Blazers', 'New York Knicks']"
+15,Deni Avdija,Deni,Avdija,1630166,['Washington Wizards']
+16,Deandre Ayton,Deandre,Ayton,1629028,"['Phoenix Suns', 'Portland Trail Blazers']"
+17,Udoka Azubuike,Udoka,Azubuike,1628962,"['Utah Jazz', 'Phoenix Suns']"
+18,Marvin Bagley III,Marvin,Bagley III,1628963,"['Sacramento Kings', 'Detroit Pistons']"
+19,Amari Bailey,Amari,Bailey,1641735,['Charlotte Hornets']
+20,Patrick Baldwin Jr.,Patrick,Baldwin Jr.,1631116,"['Golden State Warriors', 'Washington Wizards']"
+21,LaMelo Ball,LaMelo,Ball,1630163,['Charlotte Hornets']
+22,Lonzo Ball,Lonzo,Ball,1628366,"['Los Angeles Lakers', 'New Orleans Pelicans', 'Chicago Bulls']"
+23,Mo Bamba,Mo,Bamba,1628964,"['Orlando Magic', 'Los Angeles Lakers', 'Philadelphia 76ers']"
+24,Paolo Banchero,Paolo,Banchero,1631094,['Orlando Magic']
+25,Desmond Bane,Desmond,Bane,1630217,['Memphis Grizzlies']
+26,Dalano Banton,Dalano,Banton,1630625,"['Toronto Raptors', 'Boston Celtics']"
+27,Dominick Barlow,Dominick,Barlow,1631230,['San Antonio Spurs']
+28,Harrison Barnes,Harrison,Barnes,203084,"['Golden State Warriors', 'Dallas Mavericks', 'Sacramento Kings']"
+29,Scottie Barnes,Scottie,Barnes,1630567,['Toronto Raptors']
+30,RJ Barrett,RJ,Barrett,1629628,['New York Knicks']
+31,Charles Bassey,Charles,Bassey,1629646,"['Philadelphia 76ers', 'San Antonio Spurs']"
+32,Emoni Bates,Emoni,Bates,1641734,['Cleveland Cavaliers']
+33,Keita Bates-Diop,Keita,Bates-Diop,1628966,"['Minnesota Timberwolves', 'Denver Nuggets', 'San Antonio Spurs', 'Phoenix Suns']"
+34,Nicolas Batum,Nicolas,Batum,201587,"['Portland Trail Blazers', 'Charlotte Hornets', 'Los Angeles Clippers', 'Philadelphia 76ers']"
+35,Bradley Beal,Bradley,Beal,203078,"['Washington Wizards', 'Phoenix Suns']"
+36,Malik Beasley,Malik,Beasley,1627736,"['Denver Nuggets', 'Minnesota Timberwolves', 'Utah Jazz', 'Los Angeles Lakers', 'Milwaukee Bucks']"
+37,MarJon Beauchamp,MarJon,Beauchamp,1630699,['Milwaukee Bucks']
+39,Davis Bertans,Davis,Bertans,202722,"['San Antonio Spurs', 'Washington Wizards', 'Dallas Mavericks', 'Oklahoma City Thunder']"
+40,Patrick Beverley,Patrick,Beverley,201976,"['Houston Rockets', 'Los Angeles Clippers', 'Minnesota Timberwolves', 'Los Angeles Lakers', 'Chicago Bulls', 'Philadelphia 76ers']"
+41,Saddiq Bey,Saddiq,Bey,1630180,"['Detroit Pistons', 'Atlanta Hawks']"
+42,Goga Bitadze,Goga,Bitadze,1629048,"['Indiana Pacers', 'Orlando Magic']"
+43,Onuralp Bitim,Onuralp,Bitim,1641931,['Chicago Bulls']
+44,Bismack Biyombo,Bismack,Biyombo,202687,"['Charlotte Hornets', 'Toronto Raptors', 'Orlando Magic', 'Charlotte Hornets', 'Phoenix Suns', 'Memphis Grizzlies']"
+45,Anthony Black,Anthony,Black,1641710,['Orlando Magic']
+46,Leaky Black,Leaky,Black,1641778,['Charlotte Hornets']
+47,Bogdan Bogdanovic,Bogdan,Bogdanovic,203992,"['Sacramento Kings', 'Atlanta Hawks']"
+48,Bojan Bogdanovic,Bojan,Bogdanovic,202711,"['Brooklyn Nets', 'Washington Wizards', 'Indiana Pacers', 'Utah Jazz', 'Detroit Pistons']"
+49,Bol Bol,Bol,Bol,1629626,"['Denver Nuggets', 'Orlando Magic', 'Phoenix Suns']"
+50,Marques Bolden,Marques,Bolden,1629716,"['Cleveland Cavaliers', 'Milwaukee Bucks']"
+51,Devin Booker,Devin,Booker,1626164,['Phoenix Suns']
+52,Brandon Boston Jr.,Brandon,Boston Jr.,1630527,['Los Angeles Clippers']
+53,Chris Boucher,Chris,Boucher,1628449,"['Golden State Warriors', 'Toronto Raptors']"
+54,James Bouknight,James,Bouknight,1630547,['Charlotte Hornets']
+55,Malaki Branham,Malaki,Branham,1631103,['San Antonio Spurs']
+56,Christian Braun,Christian,Braun,1631128,['Denver Nuggets']
+57,Mikal Bridges,Mikal,Bridges,1628969,"['Phoenix Suns', 'Brooklyn Nets']"
+58,Miles Bridges,Miles,Bridges,1628970,['Charlotte Hornets']
+59,Oshae Brissett,Oshae,Brissett,1629052,"['Toronto Raptors', 'Indiana Pacers', 'Boston Celtics']"
+60,Malcolm Brogdon,Malcolm,Brogdon,1627763,"['Milwaukee Bucks', 'Indiana Pacers', 'Boston Celtics', 'Portland Trail Blazers']"
+61,Armoni Brooks,Armoni,Brooks,1629717,"['Houston Rockets', 'Toronto Raptors', 'Brooklyn Nets']"
+62,Dillon Brooks,Dillon,Brooks,1628415,"['Memphis Grizzlies', 'Houston Rockets']"
+63,Bruce Brown,Bruce,Brown,1628971,"['Detroit Pistons', 'Brooklyn Nets', 'Denver Nuggets', 'Indiana Pacers']"
+64,Jaylen Brown,Jaylen,Brown,1627759,['Boston Celtics']
+65,Kendall Brown,Kendall,Brown,1631112,['Indiana Pacers']
+66,Kobe Brown,Kobe,Brown,1641738,['Los Angeles Clippers']
+67,Moses Brown,Moses,Brown,1629650,"['Portland Trail Blazers', 'Oklahoma City Thunder', 'Dallas Mavericks', 'Cleveland Cavaliers', 'Los Angeles Clippers', 'Brooklyn Nets', 'Portland Trail Blazers']"
+68,Greg Brown III,Greg,Brown III,1630535,"['Portland Trail Blazers', 'Dallas Mavericks']"
+69,Charlie Brown Jr.,Charlie,Brown Jr.,1629718,"['Atlanta Hawks', 'Oklahoma City Thunder', 'Dallas Mavericks', 'Philadelphia 76ers', 'New York Knicks']"
+70,Troy Brown Jr.,Troy,Brown Jr.,1628972,"['Washington Wizards', 'Chicago Bulls', 'Los Angeles Lakers', 'Minnesota Timberwolves']"
+71,Jalen Brunson,Jalen,Brunson,1628973,"['Dallas Mavericks', 'New York Knicks']"
+72,Thomas Bryant,Thomas,Bryant,1628418,"['Los Angeles Lakers', 'Washington Wizards', 'Los Angeles Lakers', 'Denver Nuggets', 'Miami Heat']"
+73,Kobe Bufkin,Kobe,Bufkin,1641723,['Atlanta Hawks']
+74,Reggie Bullock Jr.,Reggie,Bullock Jr.,203493,"['Los Angeles Clippers', 'Phoenix Suns', 'Detroit Pistons', 'Los Angeles Lakers', 'New York Knicks', 'Dallas Mavericks', 'Houston Rockets']"
+75,Alec Burks,Alec,Burks,202692,"['Utah Jazz', 'Cleveland Cavaliers', 'Sacramento Kings', 'Golden State Warriors', 'Philadelphia 76ers', 'New York Knicks', 'Detroit Pistons']"
+76,Jared Butler,Jared,Butler,1630215,"['Utah Jazz', 'Oklahoma City Thunder', 'Washington Wizards']"
+77,Jimmy Butler,Jimmy,Butler,202710,"['Chicago Bulls', 'Minnesota Timberwolves', 'Philadelphia 76ers', 'Miami Heat']"
+78,John Butler Jr.,John,Butler Jr.,1631219,['Portland Trail Blazers']
+79,Jamal Cain,Jamal,Cain,1631288,['Miami Heat']
+80,Kentavious Caldwell-Pope,Kentavious,Caldwell-Pope,203484,"['Detroit Pistons', 'Los Angeles Lakers', 'Washington Wizards', 'Denver Nuggets']"
+81,Toumani Camara,Toumani,Camara,1641739,['Portland Trail Blazers']
+82,Vlatko Cancar,Vlatko,Cancar,1628427,['Denver Nuggets']
+83,Clint Capela,Clint,Capela,203991,"['Houston Rockets', 'Atlanta Hawks']"
+84,Jevon Carter,Jevon,Carter,1628975,"['Memphis Grizzlies', 'Phoenix Suns', 'Brooklyn Nets', 'Milwaukee Bucks', 'Chicago Bulls']"
+85,Wendell Carter Jr.,Wendell,Carter Jr.,1628976,"['Chicago Bulls', 'Orlando Magic']"
+86,Alex Caruso,Alex,Caruso,1627936,"['Los Angeles Lakers', 'Chicago Bulls']"
+87,Colin Castleton,Colin,Castleton,1630658,['Los Angeles Lakers']
+88,Malcolm Cazalon,Malcolm,Cazalon,1630608,['Detroit Pistons']
+89,Julian Champagnie,Julian,Champagnie,1630577,"['Philadelphia 76ers', 'San Antonio Spurs']"
+90,Max Christie,Max,Christie,1631108,['Los Angeles Lakers']
+91,Josh Christopher,Josh,Christopher,1630528,['Houston Rockets']
+92,Sidy Cissoko,Sidy,Cissoko,1631321,['San Antonio Spurs']
+94,Brandon Clarke,Brandon,Clarke,1629634,['Memphis Grizzlies']
+95,Jordan Clarkson,Jordan,Clarkson,203903,"['Los Angeles Lakers', 'Cleveland Cavaliers', 'Utah Jazz']"
+96,Nic Claxton,Nic,Claxton,1629651,['Brooklyn Nets']
+97,Noah Clowney,Noah,Clowney,1641730,['Brooklyn Nets']
+98,Amir Coffey,Amir,Coffey,1629599,['Los Angeles Clippers']
+99,John Collins,John,Collins,1628381,"['Atlanta Hawks', 'Utah Jazz']"
+100,Zach Collins,Zach,Collins,1628380,"['Portland Trail Blazers', 'San Antonio Spurs']"
+101,Mike Conley,Mike,Conley,201144,"['Memphis Grizzlies', 'Utah Jazz', 'Minnesota Timberwolves']"
+102,Pat Connaughton,Pat,Connaughton,1626192,"['Portland Trail Blazers', 'Milwaukee Bucks']"
+103,Bilal Coulibaly,Bilal,Coulibaly,1641731,['Washington Wizards']
+105,Robert Covington,Robert,Covington,203496,"['Houston Rockets', 'Philadelphia 76ers', 'Minnesota Timberwolves', 'Houston Rockets', 'Portland Trail Blazers', 'Los Angeles Clippers', 'Philadelphia 76ers']"
+106,Torrey Craig,Torrey,Craig,1628470,"['Denver Nuggets', 'Milwaukee Bucks', 'Phoenix Suns', 'Indiana Pacers', 'Phoenix Suns', 'Chicago Bulls']"
+107,Jae Crowder,Jae,Crowder,203109,"['Dallas Mavericks', 'Boston Celtics', 'Cleveland Cavaliers', 'Utah Jazz', 'Memphis Grizzlies', 'Miami Heat', 'Phoenix Suns', 'Milwaukee Bucks']"
+108,Cade Cunningham,Cade,Cunningham,1630595,['Detroit Pistons']
+109,Seth Curry,Seth,Curry,203552,"['Memphis Grizzlies', 'Cleveland Cavaliers', 'Phoenix Suns', 'Sacramento Kings', 'Dallas Mavericks', 'Portland Trail Blazers', 'Dallas Mavericks', 'Philadelphia 76ers', 'Brooklyn Nets', 'Dallas Mavericks']"
+110,Stephen Curry,Stephen,Curry,201939,['Golden State Warriors']
+111,Dyson Daniels,Dyson,Daniels,1630700,['New Orleans Pelicans']
+112,Anthony Davis,Anthony,Davis,203076,"['New Orleans Pelicans', 'Los Angeles Lakers']"
+113,Johnny Davis,Johnny,Davis,1631098,['Washington Wizards']
+114,JD Davison,JD,Davison,1631120,['Boston Celtics']
+115,DeMar DeRozan,DeMar,DeRozan,201942,"['Toronto Raptors', 'San Antonio Spurs', 'Chicago Bulls']"
+116,Dexter Dennis,Dexter,Dennis,1641926,['Dallas Mavericks']
+117,Donte DiVincenzo,Donte,DiVincenzo,1628978,"['Milwaukee Bucks', 'Sacramento Kings', 'Golden State Warriors', 'New York Knicks']"
+118,Moussa Diabate,Moussa,Diabate,1631217,['Los Angeles Clippers']
+119,Gradey Dick,Gradey,Dick,1641711,['Toronto Raptors']
+120,Ousmane Dieng,Ousmane,Dieng,1631172,['Oklahoma City Thunder']
+121,Spencer Dinwiddie,Spencer,Dinwiddie,203915,"['Detroit Pistons', 'Brooklyn Nets', 'Washington Wizards', 'Dallas Mavericks', 'Brooklyn Nets']"
+122,Luka Doncic,Luka,Doncic,1629029,['Dallas Mavericks']
+123,Luguentz Dort,Luguentz,Dort,1629652,['Oklahoma City Thunder']
+124,Ayo Dosunmu,Ayo,Dosunmu,1630245,['Chicago Bulls']
+125,Andre Drummond,Andre,Drummond,203083,"['Detroit Pistons', 'Cleveland Cavaliers', 'Los Angeles Lakers', 'Philadelphia 76ers', 'Brooklyn Nets', 'Chicago Bulls']"
+126,Chris Duarte,Chris,Duarte,1630537,"['Indiana Pacers', 'Sacramento Kings']"
+127,Kris Dunn,Kris,Dunn,1627739,"['Minnesota Timberwolves', 'Chicago Bulls', 'Atlanta Hawks', 'Portland Trail Blazers', 'Utah Jazz']"
+128,Kevin Durant,Kevin,Durant,201142,"['Oklahoma City Thunder', 'Golden State Warriors', 'Brooklyn Nets', 'Phoenix Suns']"
+129,Jalen Duren,Jalen,Duren,1631105,['Detroit Pistons']
+130,Tari Eason,Tari,Eason,1631106,['Houston Rockets']
+131,Anthony Edwards,Anthony,Edwards,1630162,['Minnesota Timberwolves']
+132,Kessler Edwards,Kessler,Edwards,1630556,"['Brooklyn Nets', 'Sacramento Kings']"
+133,Keon Ellis,Keon,Ellis,1631165,['Sacramento Kings']
+134,Joel Embiid,Joel,Embiid,203954,['Philadelphia 76ers']
+135,Drew Eubanks,Drew,Eubanks,1629234,"['San Antonio Spurs', 'Portland Trail Blazers', 'Phoenix Suns']"
+136,Dante Exum,Dante,Exum,203957,"['Utah Jazz', 'Cleveland Cavaliers', 'Dallas Mavericks']"
+137,Bruno Fernando,Bruno,Fernando,1628981,"['Atlanta Hawks', 'Boston Celtics', 'Houston Rockets', 'Atlanta Hawks']"
+138,Dorian Finney-Smith,Dorian,Finney-Smith,1627827,"['Dallas Mavericks', 'Brooklyn Nets']"
+139,Malachi Flynn,Malachi,Flynn,1630201,['Toronto Raptors']
+140,Simone Fontecchio,Simone,Fontecchio,1631323,['Utah Jazz']
+141,Jordan Ford,Jordan,Ford,1630259,['Sacramento Kings']
+142,Trent Forrest,Trent,Forrest,1630235,"['Utah Jazz', 'Atlanta Hawks']"
+143,Evan Fournier,Evan,Fournier,203095,"['Denver Nuggets', 'Orlando Magic', 'Boston Celtics', 'New York Knicks']"
+144,De'Aaron Fox,De'Aaron,Fox,1628368,['Sacramento Kings']
+146,Alex Fudge,Alex,Fudge,1641788,['Los Angeles Lakers']
+147,Markelle Fultz,Markelle,Fultz,1628365,"['Philadelphia 76ers', 'Orlando Magic']"
+148,Daniel Gafford,Daniel,Gafford,1629655,"['Chicago Bulls', 'Washington Wizards']"
+149,Danilo Gallinari,Danilo,Gallinari,201568,"['New York Knicks', 'Denver Nuggets', 'Los Angeles Clippers', 'Oklahoma City Thunder', 'Atlanta Hawks', 'Washington Wizards']"
+150,Darius Garland,Darius,Garland,1629636,['Cleveland Cavaliers']
+151,Usman Garuba,Usman,Garuba,1630586,['Houston Rockets']
+152,Luka Garza,Luka,Garza,1630568,"['Detroit Pistons', 'Minnesota Timberwolves']"
+153,Kaiser Gates,Kaiser,Gates,1629232,['New Orleans Pelicans']
+154,Keyonte George,Keyonte,George,1641718,['Utah Jazz']
+155,Paul George,Paul,George,202331,"['Indiana Pacers', 'Oklahoma City Thunder', 'Los Angeles Clippers']"
+156,Josh Giddey,Josh,Giddey,1630581,['Oklahoma City Thunder']
+157,Harry Giles III,Harry,Giles III,1628385,"['Sacramento Kings', 'Portland Trail Blazers', 'Brooklyn Nets']"
+158,Shai Gilgeous-Alexander,Shai,Gilgeous-Alexander,1628983,"['Los Angeles Clippers', 'Oklahoma City Thunder']"
+159,Anthony Gill,Anthony,Gill,1630264,['Washington Wizards']
+160,Collin Gillespie,Collin,Gillespie,1631221,['Denver Nuggets']
+161,Jacob Gilyard,Jacob,Gilyard,1631367,['Memphis Grizzlies']
+162,Rudy Gobert,Rudy,Gobert,203497,"['Utah Jazz', 'Minnesota Timberwolves']"
+163,Jordan Goodwin,Jordan,Goodwin,1630692,"['Washington Wizards', 'Phoenix Suns']"
+164,Aaron Gordon,Aaron,Gordon,203932,"['Orlando Magic', 'Denver Nuggets']"
+165,Eric Gordon,Eric,Gordon,201569,"['Los Angeles Clippers', 'New Orleans Pelicans', 'Houston Rockets', 'Los Angeles Clippers', 'Phoenix Suns']"
+166,Devonte' Graham,Devonte',Graham,1628984,"['Charlotte Hornets', 'New Orleans Pelicans', 'San Antonio Spurs']"
+167,Jerami Grant,Jerami,Grant,203924,"['Philadelphia 76ers', 'Oklahoma City Thunder', 'Denver Nuggets', 'Detroit Pistons', 'Portland Trail Blazers']"
+168,AJ Green,AJ,Green,1631260,['Milwaukee Bucks']
+169,Danny Green,Danny,Green,201980,"['Cleveland Cavaliers', 'San Antonio Spurs', 'Toronto Raptors', 'Los Angeles Lakers', 'Philadelphia 76ers', 'Memphis Grizzlies', 'Cleveland Cavaliers', 'Philadelphia 76ers']"
+170,Draymond Green,Draymond,Green,203110,['Golden State Warriors']
+171,Jalen Green,Jalen,Green,1630224,['Houston Rockets']
+172,Jeff Green,Jeff,Green,201145,"['Oklahoma City Thunder', 'Boston Celtics', 'Memphis Grizzlies', 'Los Angeles Clippers', 'Orlando Magic', 'Cleveland Cavaliers', 'Washington Wizards', 'Utah Jazz', 'Houston Rockets', 'Brooklyn Nets', 'Denver Nuggets', 'Houston Rockets']"
+173,Josh Green,Josh,Green,1630182,['Dallas Mavericks']
+174,AJ Griffin,AJ,Griffin,1631100,['Atlanta Hawks']
+175,Quentin Grimes,Quentin,Grimes,1629656,['New York Knicks']
+176,Mouhamed Gueye,Mouhamed,Gueye,1631243,['Atlanta Hawks']
+177,Rui Hachimura,Rui,Hachimura,1629060,"['Washington Wizards', 'Los Angeles Lakers']"
+178,Tyrese Haliburton,Tyrese,Haliburton,1630169,"['Sacramento Kings', 'Indiana Pacers']"
+179,R.J. Hampton,R.J.,Hampton,1630181,"['Denver Nuggets', 'Orlando Magic', 'Detroit Pistons', 'Miami Heat']"
+180,Tim Hardaway Jr.,Tim,Hardaway Jr.,203501,"['New York Knicks', 'Atlanta Hawks', 'New York Knicks', 'Dallas Mavericks']"
+181,James Harden,James,Harden,201935,"['Oklahoma City Thunder', 'Houston Rockets', 'Brooklyn Nets', 'Philadelphia 76ers', 'Los Angeles Clippers']"
+182,Jaden Hardy,Jaden,Hardy,1630702,['Dallas Mavericks']
+183,Ron Harper Jr.,Ron,Harper Jr.,1631199,['Toronto Raptors']
+184,Gary Harris,Gary,Harris,203914,"['Denver Nuggets', 'Orlando Magic']"
+185,Joe Harris,Joe,Harris,203925,"['Cleveland Cavaliers', 'Brooklyn Nets', 'Detroit Pistons']"
+186,Kevon Harris,Kevon,Harris,1630284,['Orlando Magic']
+187,Tobias Harris,Tobias,Harris,202699,"['Milwaukee Bucks', 'Orlando Magic', 'Detroit Pistons', 'Los Angeles Clippers', 'Philadelphia 76ers']"
+188,Josh Hart,Josh,Hart,1628404,"['Los Angeles Lakers', 'New Orleans Pelicans', 'Portland Trail Blazers', 'New York Knicks']"
+189,Isaiah Hartenstein,Isaiah,Hartenstein,1628392,"['Houston Rockets', 'Denver Nuggets', 'Cleveland Cavaliers', 'Los Angeles Clippers', 'New York Knicks']"
+190,Sam Hauser,Sam,Hauser,1630573,['Boston Celtics']
+191,Jordan Hawkins,Jordan,Hawkins,1641722,['New Orleans Pelicans']
+192,Jaxson Hayes,Jaxson,Hayes,1629637,"['New Orleans Pelicans', 'Los Angeles Lakers']"
+193,Killian Hayes,Killian,Hayes,1630165,['Detroit Pistons']
+194,Gordon Hayward,Gordon,Hayward,202330,"['Utah Jazz', 'Boston Celtics', 'Charlotte Hornets']"
+195,Scoot Henderson,Scoot,Henderson,1630703,['Portland Trail Blazers']
+196,Taylor Hendricks,Taylor,Hendricks,1641707,['Utah Jazz']
+197,Tyler Herro,Tyler,Herro,1629639,['Miami Heat']
+198,Buddy Hield,Buddy,Hield,1627741,"['New Orleans Pelicans', 'Sacramento Kings', 'Indiana Pacers']"
+199,Haywood Highsmith,Haywood,Highsmith,1629312,"['Philadelphia 76ers', 'Miami Heat']"
+200,Nate Hinton,Nate,Hinton,1630207,"['Dallas Mavericks', 'Indiana Pacers', 'Houston Rockets']"
+201,D'Moi Hodge,D'Moi,Hodge,1641793,['Los Angeles Lakers']
+202,Aaron Holiday,Aaron,Holiday,1628988,"['Indiana Pacers', 'Washington Wizards', 'Phoenix Suns', 'Atlanta Hawks', 'Houston Rockets']"
+203,Jrue Holiday,Jrue,Holiday,201950,"['Philadelphia 76ers', 'New Orleans Pelicans', 'Milwaukee Bucks', 'Boston Celtics']"
+204,Justin Holiday,Justin,Holiday,203200,"['Philadelphia 76ers', 'Golden State Warriors', 'Atlanta Hawks', 'Chicago Bulls', 'New York Knicks', 'Chicago Bulls', 'Memphis Grizzlies', 'Indiana Pacers', 'Sacramento Kings', 'Atlanta Hawks', 'Dallas Mavericks', 'Denver Nuggets']"
+205,Richaun Holmes,Richaun,Holmes,1626158,"['Philadelphia 76ers', 'Phoenix Suns', 'Sacramento Kings', 'Dallas Mavericks']"
+206,Chet Holmgren,Chet,Holmgren,1631096,['Oklahoma City Thunder']
+207,Jalen Hood-Schifino,Jalen,Hood-Schifino,1641720,['Los Angeles Lakers']
+208,Al Horford,Al,Horford,201143,"['Atlanta Hawks', 'Boston Celtics', 'Philadelphia 76ers', 'Oklahoma City Thunder', 'Boston Celtics']"
+209,Talen Horton-Tucker,Talen,Horton-Tucker,1629659,"['Los Angeles Lakers', 'Utah Jazz']"
+210,Danuel House Jr.,Danuel,House Jr.,1627863,"['Washington Wizards', 'Phoenix Suns', 'Houston Rockets', 'New York Knicks', 'Utah Jazz', 'Philadelphia 76ers']"
+211,Caleb Houstan,Caleb,Houstan,1631216,['Orlando Magic']
+212,Jett Howard,Jett,Howard,1641724,['Orlando Magic']
+213,Kevin Huerter,Kevin,Huerter,1628989,"['Atlanta Hawks', 'Sacramento Kings']"
+214,Jay Huff,Jay,Huff,1630643,"['Los Angeles Lakers', 'Washington Wizards', 'Denver Nuggets']"
+215,De'Andre Hunter,De'Andre,Hunter,1629631,['Atlanta Hawks']
+216,Bones Hyland,Bones,Hyland,1630538,"['Denver Nuggets', 'Los Angeles Clippers']"
+217,Joe Ingles,Joe,Ingles,204060,"['Utah Jazz', 'Milwaukee Bucks', 'Orlando Magic']"
+218,Brandon Ingram,Brandon,Ingram,1627742,"['Los Angeles Lakers', 'New Orleans Pelicans']"
+219,Kyrie Irving,Kyrie,Irving,202681,"['Cleveland Cavaliers', 'Boston Celtics', 'Brooklyn Nets', 'Dallas Mavericks']"
+220,Jonathan Isaac,Jonathan,Isaac,1628371,['Orlando Magic']
+221,Jaden Ivey,Jaden,Ivey,1631093,['Detroit Pistons']
+222,GG Jackson,GG,Jackson,1641713,['Memphis Grizzlies']
+223,Isaiah Jackson,Isaiah,Jackson,1630543,['Indiana Pacers']
+224,Reggie Jackson,Reggie,Jackson,202704,"['Oklahoma City Thunder', 'Detroit Pistons', 'Los Angeles Clippers', 'Denver Nuggets']"
+225,Andre Jackson Jr.,Andre,Jackson Jr.,1641748,['Milwaukee Bucks']
+226,Jaren Jackson Jr.,Jaren,Jackson Jr.,1628991,['Memphis Grizzlies']
+227,Trayce Jackson-Davis,Trayce,Jackson-Davis,1631218,['Golden State Warriors']
+228,LeBron James,LeBron,James,2544,"['Cleveland Cavaliers', 'Miami Heat', 'Cleveland Cavaliers', 'Los Angeles Lakers']"
+229,Jaime Jaquez Jr.,Jaime,Jaquez Jr.,1631170,['Miami Heat']
+230,DaQuan Jeffries,DaQuan,Jeffries,1629610,"['Sacramento Kings', 'Houston Rockets', 'Memphis Grizzlies', 'New York Knicks']"
+231,Ty Jerome,Ty,Jerome,1629660,"['Phoenix Suns', 'Oklahoma City Thunder', 'Golden State Warriors', 'Cleveland Cavaliers']"
+232,Isaiah Joe,Isaiah,Joe,1630198,"['Philadelphia 76ers', 'Oklahoma City Thunder']"
+233,Cameron Johnson,Cameron,Johnson,1629661,"['Phoenix Suns', 'Brooklyn Nets']"
+234,Jalen Johnson,Jalen,Johnson,1630552,['Atlanta Hawks']
+235,Keldon Johnson,Keldon,Johnson,1629640,['San Antonio Spurs']
+236,Keon Johnson,Keon,Johnson,1630553,"['Los Angeles Clippers', 'Portland Trail Blazers']"
+237,Keyontae Johnson,Keyontae,Johnson,1641749,['Oklahoma City Thunder']
+238,Nikola Jokic,Nikola,Jokic,203999,['Denver Nuggets']
+239,Colby Jones,Colby,Jones,1641732,['Sacramento Kings']
+240,Damian Jones,Damian,Jones,1627745,"['Golden State Warriors', 'Atlanta Hawks', 'Phoenix Suns', 'Los Angeles Lakers', 'Sacramento Kings', 'Los Angeles Lakers', 'Utah Jazz', 'Cleveland Cavaliers']"
+241,Herbert Jones,Herbert,Jones,1630529,['New Orleans Pelicans']
+242,Tre Jones,Tre,Jones,1630200,['San Antonio Spurs']
+243,Tyus Jones,Tyus,Jones,1626145,"['Minnesota Timberwolves', 'Memphis Grizzlies', 'Washington Wizards']"
+244,Derrick Jones Jr.,Derrick,Jones Jr.,1627884,"['Phoenix Suns', 'Miami Heat', 'Portland Trail Blazers', 'Chicago Bulls', 'Dallas Mavericks']"
+245,DeAndre Jordan,DeAndre,Jordan,201599,"['Los Angeles Clippers', 'Dallas Mavericks', 'New York Knicks', 'Brooklyn Nets', 'Los Angeles Lakers', 'Philadelphia 76ers', 'Denver Nuggets']"
+246,Cory Joseph,Cory,Joseph,202709,"['San Antonio Spurs', 'Toronto Raptors', 'Indiana Pacers', 'Sacramento Kings', 'Detroit Pistons', 'Golden State Warriors']"
+247,Nikola Jovic,Nikola,Jovic,1631107,['Miami Heat']
+248,Johnny Juzang,Johnny,Juzang,1630548,['Utah Jazz']
+249,Luke Kennard,Luke,Kennard,1628379,"['Detroit Pistons', 'Los Angeles Clippers', 'Memphis Grizzlies']"
+250,Walker Kessler,Walker,Kessler,1631117,['Utah Jazz']
+251,Braxton Key,Braxton,Key,1630296,"['Philadelphia 76ers', 'Detroit Pistons', 'Denver Nuggets']"
+252,Corey Kispert,Corey,Kispert,1630557,['Washington Wizards']
+253,Maxi Kleber,Maxi,Kleber,1628467,['Dallas Mavericks']
+254,Nathan Knight,Nathan,Knight,1630233,"['Atlanta Hawks', 'Minnesota Timberwolves']"
+255,Kevin Knox II,Kevin,Knox II,1628995,"['New York Knicks', 'Atlanta Hawks', 'Detroit Pistons', 'Portland Trail Blazers', 'Detroit Pistons']"
+256,Christian Koloko,Christian,Koloko,1631132,['Toronto Raptors']
+257,John Konchar,John,Konchar,1629723,['Memphis Grizzlies']
+258,Furkan Korkmaz,Furkan,Korkmaz,1627788,['Philadelphia 76ers']
+259,Luke Kornet,Luke,Kornet,1628436,"['New York Knicks', 'Chicago Bulls', 'Boston Celtics', 'Cleveland Cavaliers', 'Milwaukee Bucks', 'Boston Celtics']"
+260,Jonathan Kuminga,Jonathan,Kuminga,1630228,['Golden State Warriors']
+261,Kyle Kuzma,Kyle,Kuzma,1628398,"['Los Angeles Lakers', 'Washington Wizards']"
+262,Jake LaRavia,Jake,LaRavia,1631222,['Memphis Grizzlies']
+263,Zach LaVine,Zach,LaVine,203897,"['Minnesota Timberwolves', 'Chicago Bulls']"
+264,Jock Landale,Jock,Landale,1629111,"['San Antonio Spurs', 'Phoenix Suns', 'Houston Rockets']"
+265,A.J. Lawson,A.J.,Lawson,1630639,"['Minnesota Timberwolves', 'Dallas Mavericks']"
+266,Caris LeVert,Caris,LeVert,1627747,"['Brooklyn Nets', 'Indiana Pacers', 'Cleveland Cavaliers']"
+267,Damion Lee,Damion,Lee,1627814,"['Atlanta Hawks', 'Golden State Warriors', 'Phoenix Suns']"
+268,Saben Lee,Saben,Lee,1630240,"['Detroit Pistons', 'Philadelphia 76ers', 'Phoenix Suns']"
+269,Alex Len,Alex,Len,203458,"['Phoenix Suns', 'Atlanta Hawks', 'Sacramento Kings', 'Toronto Raptors', 'Washington Wizards', 'Sacramento Kings']"
+270,Kawhi Leonard,Kawhi,Leonard,202695,"['San Antonio Spurs', 'Toronto Raptors', 'Los Angeles Clippers']"
+272,Maxwell Lewis,Maxwell,Lewis,1641721,['Los Angeles Lakers']
+273,Kira Lewis Jr.,Kira,Lewis Jr.,1630184,['New Orleans Pelicans']
+274,E.J. Liddell,E.J.,Liddell,1630604,['New Orleans Pelicans']
+275,Damian Lillard,Damian,Lillard,203081,"['Portland Trail Blazers', 'Milwaukee Bucks']"
+276,Nassir Little,Nassir,Little,1629642,"['Portland Trail Blazers', 'Phoenix Suns']"
+277,Dereck Lively II,Dereck,Lively II,1641726,['Dallas Mavericks']
+278,Isaiah Livers,Isaiah,Livers,1630587,['Detroit Pistons']
+279,Chris Livingston,Chris,Livingston,1641753,['Milwaukee Bucks']
+280,Kenneth Lofton Jr.,Kenneth,Lofton Jr.,1631254,['Memphis Grizzlies']
+281,Kevon Looney,Kevon,Looney,1626172,['Golden State Warriors']
+282,Brook Lopez,Brook,Lopez,201572,"['Brooklyn Nets', 'Los Angeles Lakers', 'Milwaukee Bucks']"
+283,Robin Lopez,Robin,Lopez,201577,"['Phoenix Suns', 'New Orleans Pelicans', 'Portland Trail Blazers', 'New York Knicks', 'Chicago Bulls', 'Milwaukee Bucks', 'Washington Wizards', 'Orlando Magic', 'Cleveland Cavaliers', 'Milwaukee Bucks']"
+284,Kevin Love,Kevin,Love,201567,"['Minnesota Timberwolves', 'Cleveland Cavaliers', 'Miami Heat']"
+285,Kyle Lowry,Kyle,Lowry,200768,"['Memphis Grizzlies', 'Houston Rockets', 'Toronto Raptors', 'Miami Heat']"
+286,Seth Lundy,Seth,Lundy,1641754,['Atlanta Hawks']
+287,Trey Lyles,Trey,Lyles,1626168,"['Utah Jazz', 'Denver Nuggets', 'San Antonio Spurs', 'Detroit Pistons', 'Sacramento Kings']"
+288,Theo Maledon,Theo,Maledon,1630177,"['Oklahoma City Thunder', 'Charlotte Hornets']"
+289,Sandro Mamukelashvili,Sandro,Mamukelashvili,1630572,"['Milwaukee Bucks', 'San Antonio Spurs']"
+290,Terance Mann,Terance,Mann,1629611,['Los Angeles Clippers']
+291,Tre Mann,Tre,Mann,1630544,['Oklahoma City Thunder']
+292,Boban Marjanovic,Boban,Marjanovic,1626246,"['San Antonio Spurs', 'Detroit Pistons', 'Los Angeles Clippers', 'Philadelphia 76ers', 'Dallas Mavericks', 'Houston Rockets']"
+293,Lauri Markkanen,Lauri,Markkanen,1628374,"['Chicago Bulls', 'Cleveland Cavaliers', 'Utah Jazz']"
+294,Naji Marshall,Naji,Marshall,1630230,['New Orleans Pelicans']
+295,Caleb Martin,Caleb,Martin,1628997,"['Charlotte Hornets', 'Miami Heat']"
+296,Cody Martin,Cody,Martin,1628998,['Charlotte Hornets']
+297,KJ Martin,KJ,Martin,1630231,"['Houston Rockets', 'Los Angeles Clippers', 'Philadelphia 76ers']"
+298,Garrison Mathews,Garrison,Mathews,1629726,"['Washington Wizards', 'Houston Rockets', 'Atlanta Hawks']"
+299,Bennedict Mathurin,Bennedict,Mathurin,1631097,['Indiana Pacers']
+300,Wesley Matthews,Wesley,Matthews,202083,"['Utah Jazz', 'Portland Trail Blazers', 'Dallas Mavericks', 'New York Knicks', 'Indiana Pacers', 'Milwaukee Bucks', 'Los Angeles Lakers', 'Milwaukee Bucks', 'Atlanta Hawks']"
+301,Tyrese Maxey,Tyrese,Maxey,1630178,['Philadelphia 76ers']
+302,Skylar Mays,Skylar,Mays,1630219,"['Atlanta Hawks', 'Portland Trail Blazers']"
+303,Miles McBride,Miles,McBride,1630540,['New York Knicks']
+304,CJ McCollum,CJ,McCollum,203468,"['Portland Trail Blazers', 'New Orleans Pelicans']"
+305,T.J. McConnell,T.J.,McConnell,204456,"['Philadelphia 76ers', 'Indiana Pacers']"
+306,Jaden McDaniels,Jaden,McDaniels,1630183,['Minnesota Timberwolves']
+307,Jalen McDaniels,Jalen,McDaniels,1629667,"['Charlotte Hornets', 'Philadelphia 76ers', 'Toronto Raptors']"
+308,Doug McDermott,Doug,McDermott,203926,"['Chicago Bulls', 'Oklahoma City Thunder', 'New York Knicks', 'Dallas Mavericks', 'Indiana Pacers', 'San Antonio Spurs']"
+309,JaVale McGee,JaVale,McGee,201580,"['Washington Wizards', 'Denver Nuggets', 'Philadelphia 76ers', 'Dallas Mavericks', 'Golden State Warriors', 'Los Angeles Lakers', 'Cleveland Cavaliers', 'Denver Nuggets', 'Phoenix Suns', 'Dallas Mavericks', 'Sacramento Kings']"
+310,Bryce McGowens,Bryce,McGowens,1631121,['Charlotte Hornets']
+311,Jordan McLaughlin,Jordan,McLaughlin,1629162,['Minnesota Timberwolves']
+312,De'Anthony Melton,De'Anthony,Melton,1629001,"['Phoenix Suns', 'Memphis Grizzlies', 'Philadelphia 76ers']"
+313,Sam Merrill,Sam,Merrill,1630241,"['Milwaukee Bucks', 'Memphis Grizzlies', 'Cleveland Cavaliers']"
+314,Chimezie Metu,Chimezie,Metu,1629002,"['San Antonio Spurs', 'Sacramento Kings', 'Phoenix Suns']"
+315,Vasilije Micic,Vasilije,Micic,203995,['Oklahoma City Thunder']
+316,Khris Middleton,Khris,Middleton,203114,"['Detroit Pistons', 'Milwaukee Bucks']"
+317,Brandon Miller,Brandon,Miller,1641706,['Charlotte Hornets']
+318,Jordan Miller,Jordan,Miller,1641757,['Los Angeles Clippers']
+319,Leonard Miller,Leonard,Miller,1631159,['Minnesota Timberwolves']
+320,Patty Mills,Patty,Mills,201988,"['Portland Trail Blazers', 'San Antonio Spurs', 'Brooklyn Nets', 'Atlanta Hawks']"
+321,Shake Milton,Shake,Milton,1629003,"['Philadelphia 76ers', 'Minnesota Timberwolves']"
+322,Justin Minaya,Justin,Minaya,1631303,['Portland Trail Blazers']
+323,Josh Minott,Josh,Minott,1631169,['Minnesota Timberwolves']
+324,Davion Mitchell,Davion,Mitchell,1630558,['Sacramento Kings']
+325,Donovan Mitchell,Donovan,Mitchell,1628378,"['Utah Jazz', 'Cleveland Cavaliers']"
+326,Evan Mobley,Evan,Mobley,1630596,['Cleveland Cavaliers']
+327,Isaiah Mobley,Isaiah,Mobley,1630600,['Cleveland Cavaliers']
+328,Malik Monk,Malik,Monk,1628370,"['Charlotte Hornets', 'Los Angeles Lakers', 'Sacramento Kings']"
+329,Moses Moody,Moses,Moody,1630541,['Golden State Warriors']
+330,Wendell Moore Jr.,Wendell,Moore Jr.,1631111,['Minnesota Timberwolves']
+331,Ja Morant,Ja,Morant,1629630,['Memphis Grizzlies']
+332,Markieff Morris,Markieff,Morris,202693,"['Phoenix Suns', 'Washington Wizards', 'Oklahoma City Thunder', 'Detroit Pistons', 'Los Angeles Lakers', 'Miami Heat', 'Brooklyn Nets', 'Dallas Mavericks']"
+333,Monte Morris,Monte,Morris,1628420,"['Denver Nuggets', 'Washington Wizards']"
+334,Marcus Morris Sr.,Marcus,Morris Sr.,202694,"['Houston Rockets', 'Phoenix Suns', 'Detroit Pistons', 'Boston Celtics', 'New York Knicks', 'Los Angeles Clippers', 'Philadelphia 76ers']"
+335,Trey Murphy III,Trey,Murphy III,1630530,['New Orleans Pelicans']
+336,Dejounte Murray,Dejounte,Murray,1627749,"['San Antonio Spurs', 'Atlanta Hawks']"
+337,Jamal Murray,Jamal,Murray,1627750,['Denver Nuggets']
+338,Keegan Murray,Keegan,Murray,1631099,['Sacramento Kings']
+339,Kris Murray,Kris,Murray,1631200,['Portland Trail Blazers']
+340,Mike Muscala,Mike,Muscala,203488,"['Atlanta Hawks', 'Philadelphia 76ers', 'Los Angeles Lakers', 'Oklahoma City Thunder', 'Boston Celtics', 'Washington Wizards']"
+341,Svi Mykhailiuk,Svi,Mykhailiuk,1629004,"['Los Angeles Lakers', 'Detroit Pistons', 'Oklahoma City Thunder', 'Toronto Raptors', 'New York Knicks', 'Charlotte Hornets', 'Boston Celtics']"
+342,Larry Nance Jr.,Larry,Nance Jr.,1626204,"['Los Angeles Lakers', 'Cleveland Cavaliers', 'Portland Trail Blazers', 'New Orleans Pelicans']"
+343,Andrew Nembhard,Andrew,Nembhard,1629614,['Indiana Pacers']
+344,Aaron Nesmith,Aaron,Nesmith,1630174,"['Boston Celtics', 'Indiana Pacers']"
+345,Georges Niang,Georges,Niang,1627777,"['Indiana Pacers', 'Utah Jazz', 'Philadelphia 76ers', 'Cleveland Cavaliers']"
+346,Daishen Nix,Daishen,Nix,1630227,"['Houston Rockets', 'Minnesota Timberwolves']"
+347,Zeke Nnaji,Zeke,Nnaji,1630192,['Denver Nuggets']
+349,Markquis Nowell,Markquis,Nowell,1641806,['Toronto Raptors']
+350,Frank Ntilikina,Frank,Ntilikina,1628373,"['New York Knicks', 'Dallas Mavericks']"
+351,Jusuf Nurkic,Jusuf,Nurkic,203994,"['Denver Nuggets', 'Portland Trail Blazers', 'Phoenix Suns']"
+352,Jordan Nwora,Jordan,Nwora,1629670,"['Milwaukee Bucks', 'Indiana Pacers']"
+353,Royce O'Neale,Royce,O'Neale,1626220,"['Utah Jazz', 'Brooklyn Nets']"
+354,Chuma Okeke,Chuma,Okeke,1629643,['Orlando Magic']
+355,Josh Okogie,Josh,Okogie,1629006,"['Minnesota Timberwolves', 'Phoenix Suns']"
+356,Onyeka Okongwu,Onyeka,Okongwu,1630168,['Atlanta Hawks']
+357,Isaac Okoro,Isaac,Okoro,1630171,['Cleveland Cavaliers']
+358,Victor Oladipo,Victor,Oladipo,203506,"['Orlando Magic', 'Oklahoma City Thunder', 'Indiana Pacers', 'Houston Rockets', 'Miami Heat']"
+359,Kelly Olynyk,Kelly,Olynyk,203482,"['Boston Celtics', 'Miami Heat', 'Houston Rockets', 'Detroit Pistons', 'Utah Jazz']"
+360,Eugene Omoruyi,Eugene,Omoruyi,1630647,"['Dallas Mavericks', 'Oklahoma City Thunder', 'Detroit Pistons', 'Washington Wizards']"
+361,Cedi Osman,Cedi,Osman,1626224,"['Cleveland Cavaliers', 'San Antonio Spurs']"
+362,Kelly Oubre Jr.,Kelly,Oubre Jr.,1626162,"['Washington Wizards', 'Phoenix Suns', 'Golden State Warriors', 'Charlotte Hornets', 'Philadelphia 76ers']"
+363,Chris Paul,Chris,Paul,101108,"['New Orleans Pelicans', 'Los Angeles Clippers', 'Houston Rockets', 'Oklahoma City Thunder', 'Phoenix Suns', 'Golden State Warriors']"
+364,Cameron Payne,Cameron,Payne,1626166,"['Oklahoma City Thunder', 'Chicago Bulls', 'Cleveland Cavaliers', 'Phoenix Suns', 'Milwaukee Bucks']"
+365,Gary Payton II,Gary,Payton II,1627780,"['Milwaukee Bucks', 'Los Angeles Lakers', 'Washington Wizards', 'Golden State Warriors', 'Portland Trail Blazers', 'Golden State Warriors']"
+366,Filip Petrusev,Filip,Petrusev,1630196,"['Philadelphia 76ers', 'Sacramento Kings']"
+367,Julian Phillips,Julian,Phillips,1641763,['Chicago Bulls']
+368,Jalen Pickett,Jalen,Pickett,1629618,['Denver Nuggets']
+369,Mason Plumlee,Mason,Plumlee,203486,"['Brooklyn Nets', 'Portland Trail Blazers', 'Denver Nuggets', 'Detroit Pistons', 'Charlotte Hornets', 'Los Angeles Clippers']"
+370,Brandin Podziemski,Brandin,Podziemski,1641764,['Golden State Warriors']
+371,Jakob Poeltl,Jakob,Poeltl,1627751,"['Toronto Raptors', 'San Antonio Spurs', 'Toronto Raptors']"
+372,Aleksej Pokusevski,Aleksej,Pokusevski,1630197,['Oklahoma City Thunder']
+373,Jordan Poole,Jordan,Poole,1629673,"['Golden State Warriors', 'Washington Wizards']"
+374,Craig Porter,Craig,Porter,1641854,['Cleveland Cavaliers']
+375,Michael Porter Jr.,Michael,Porter Jr.,1629008,['Denver Nuggets']
+376,Otto Porter Jr.,Otto,Porter Jr.,203490,"['Washington Wizards', 'Chicago Bulls', 'Orlando Magic', 'Golden State Warriors', 'Toronto Raptors']"
+377,Bobby Portis,Bobby,Portis,1626171,"['Chicago Bulls', 'Washington Wizards', 'New York Knicks', 'Milwaukee Bucks']"
+378,Kristaps Porzingis,Kristaps,Porzingis,204001,"['New York Knicks', 'Dallas Mavericks', 'Washington Wizards', 'Boston Celtics']"
+379,Micah Potter,Micah,Potter,1630695,"['Detroit Pistons', 'Utah Jazz']"
+380,Dwight Powell,Dwight,Powell,203939,"['Boston Celtics', 'Dallas Mavericks']"
+381,Norman Powell,Norman,Powell,1626181,"['Toronto Raptors', 'Portland Trail Blazers', 'Los Angeles Clippers']"
+382,Joshua Primo,Joshua,Primo,1630563,"['San Antonio Spurs', 'Los Angeles Clippers']"
+383,Taurean Prince,Taurean,Prince,1627752,"['Atlanta Hawks', 'Brooklyn Nets', 'Cleveland Cavaliers', 'Minnesota Timberwolves', 'Los Angeles Lakers']"
+384,Payton Pritchard,Payton,Pritchard,1630202,['Boston Celtics']
+385,Olivier-Maxence Prosper,Olivier-Maxence,Prosper,1641765,['Dallas Mavericks']
+386,Trevelin Queen,Trevelin,Queen,1630243,"['Houston Rockets', 'Indiana Pacers']"
+387,Neemias Queta,Neemias,Queta,1629674,"['Sacramento Kings', 'Boston Celtics']"
+388,Immanuel Quickley,Immanuel,Quickley,1630193,['New York Knicks']
+389,Lester Quinones,Lester,Quinones,1631311,['Golden State Warriors']
+390,Julius Randle,Julius,Randle,203944,"['Los Angeles Lakers', 'New Orleans Pelicans', 'New York Knicks']"
+391,Duop Reath,Duop,Reath,1641871,['Portland Trail Blazers']
+392,Austin Reaves,Austin,Reaves,1630559,['Los Angeles Lakers']
+393,Cam Reddish,Cam,Reddish,1629629,"['Atlanta Hawks', 'New York Knicks', 'Portland Trail Blazers', 'Los Angeles Lakers']"
+394,Paul Reed,Paul,Reed,1630194,['Philadelphia 76ers']
+395,Naz Reid,Naz,Reid,1629675,['Minnesota Timberwolves']
+396,Jared Rhoden,Jared,Rhoden,1631197,['Detroit Pistons']
+398,Nick Richards,Nick,Richards,1630208,['Charlotte Hornets']
+399,Josh Richardson,Josh,Richardson,1626196,"['Miami Heat', 'Philadelphia 76ers', 'Dallas Mavericks', 'Boston Celtics', 'San Antonio Spurs', 'New Orleans Pelicans', 'Miami Heat']"
+400,Duncan Robinson,Duncan,Robinson,1629130,['Miami Heat']
+401,Jerome Robinson,Jerome,Robinson,1629010,"['Los Angeles Clippers', 'Washington Wizards', 'Golden State Warriors']"
+402,Mitchell Robinson,Mitchell,Robinson,1629011,['New York Knicks']
+403,Orlando Robinson,Orlando,Robinson,1631115,['Miami Heat']
+404,Jeremiah Robinson-Earl,Jeremiah,Robinson-Earl,1630526,"['Oklahoma City Thunder', 'New Orleans Pelicans']"
+405,David Roddy,David,Roddy,1631223,['Memphis Grizzlies']
+406,Ryan Rollins,Ryan,Rollins,1631157,"['Golden State Warriors', 'Washington Wizards']"
+407,Derrick Rose,Derrick,Rose,201565,"['Chicago Bulls', 'New York Knicks', 'Cleveland Cavaliers', 'Minnesota Timberwolves', 'Detroit Pistons', 'New York Knicks', 'Memphis Grizzlies']"
+408,Terry Rozier,Terry,Rozier,1626179,"['Boston Celtics', 'Charlotte Hornets']"
+409,Ricky Rubio,Ricky,Rubio,201937,"['Minnesota Timberwolves', 'Utah Jazz', 'Phoenix Suns', 'Minnesota Timberwolves', 'Cleveland Cavaliers']"
+410,Rayan Rupert,Rayan,Rupert,1641712,['Portland Trail Blazers']
+411,D'Angelo Russell,D'Angelo,Russell,1626156,"['Los Angeles Lakers', 'Brooklyn Nets', 'Golden State Warriors', 'Minnesota Timberwolves', 'Los Angeles Lakers']"
+412,Matt Ryan,Matt,Ryan,1630346,"['Boston Celtics', 'Los Angeles Lakers', 'Minnesota Timberwolves', 'New Orleans Pelicans']"
+413,Domantas Sabonis,Domantas,Sabonis,1627734,"['Oklahoma City Thunder', 'Indiana Pacers', 'Sacramento Kings']"
+414,Luka Samanic,Luka,Samanic,1629677,"['San Antonio Spurs', 'Utah Jazz']"
+415,Jermaine Samuels Jr.,Jermaine,Samuels Jr.,1631257,['Houston Rockets']
+417,Gui Santos,Gui,Santos,1630611,['Golden State Warriors']
+418,Dario Saric,Dario,Saric,203967,"['Philadelphia 76ers', 'Minnesota Timberwolves', 'Phoenix Suns', 'Oklahoma City Thunder', 'Golden State Warriors']"
+419,Olivier Sarr,Olivier,Sarr,1630846,['Oklahoma City Thunder']
+420,Marcus Sasser,Marcus,Sasser,1631204,['Detroit Pistons']
+421,Admiral Schofield,Admiral,Schofield,1629678,"['Washington Wizards', 'Orlando Magic']"
+422,Dennis Schroder,Dennis,Schroder,203471,"['Atlanta Hawks', 'Oklahoma City Thunder', 'Los Angeles Lakers', 'Boston Celtics', 'Houston Rockets', 'Los Angeles Lakers', 'Toronto Raptors']"
+423,Dereon Seabron,Dereon,Seabron,1631220,['New Orleans Pelicans']
+424,Alperen Sengun,Alperen,Sengun,1630578,['Houston Rockets']
+425,Brice Sensabaugh,Brice,Sensabaugh,1641729,['Utah Jazz']
+426,Collin Sexton,Collin,Sexton,1629012,"['Cleveland Cavaliers', 'Utah Jazz']"
+427,Landry Shamet,Landry,Shamet,1629013,"['Philadelphia 76ers', 'Los Angeles Clippers', 'Brooklyn Nets', 'Phoenix Suns', 'Washington Wizards']"
+428,Day'Ron Sharpe,Day'Ron,Sharpe,1630549,['Brooklyn Nets']
+429,Shaedon Sharpe,Shaedon,Sharpe,1631101,['Portland Trail Blazers']
+430,Ben Sheppard,Ben,Sheppard,1641767,['Indiana Pacers']
+431,Pascal Siakam,Pascal,Siakam,1627783,['Toronto Raptors']
+432,Ben Simmons,Ben,Simmons,1627732,"['Philadelphia 76ers', 'Brooklyn Nets']"
+433,Anfernee Simons,Anfernee,Simons,1629014,['Portland Trail Blazers']
+434,Jericho Sims,Jericho,Sims,1630579,['New York Knicks']
+435,Jalen Slawson,Jalen,Slawson,1641771,['Sacramento Kings']
+436,Javonte Smart,Javonte,Smart,1630606,"['Milwaukee Bucks', 'Miami Heat']"
+437,Marcus Smart,Marcus,Smart,203935,"['Boston Celtics', 'Memphis Grizzlies']"
+438,Dru Smith,Dru,Smith,1630696,"['Miami Heat', 'Brooklyn Nets', 'Miami Heat']"
+439,Ish Smith,Ish,Smith,202397,"['Houston Rockets', 'Memphis Grizzlies', 'Golden State Warriors', 'Orlando Magic', 'Milwaukee Bucks', 'Phoenix Suns', 'Oklahoma City Thunder', 'Philadelphia 76ers', 'New Orleans Pelicans', 'Philadelphia 76ers', 'Detroit Pistons', 'Washington Wizards', 'Charlotte Hornets', 'Washington Wizards', 'Denver Nuggets', 'Charlotte Hornets']"
+440,Jalen Smith,Jalen,Smith,1630188,"['Phoenix Suns', 'Indiana Pacers']"
+442,Dennis Smith Jr.,Dennis,Smith Jr.,1628372,"['Dallas Mavericks', 'New York Knicks', 'Detroit Pistons', 'Portland Trail Blazers', 'Charlotte Hornets', 'Brooklyn Nets']"
+443,Jabari Smith Jr.,Jabari,Smith Jr.,1631095,['Houston Rockets']
+444,Nick Smith Jr.,Nick,Smith Jr.,1641733,['Charlotte Hornets']
+445,Jeremy Sochan,Jeremy,Sochan,1631110,['San Antonio Spurs']
+446,Jaden Springer,Jaden,Springer,1630531,['Philadelphia 76ers']
+447,Lamar Stevens,Lamar,Stevens,1630205,"['Cleveland Cavaliers', 'Boston Celtics']"
+448,Isaiah Stewart,Isaiah,Stewart,1630191,['Detroit Pistons']
+449,Julian Strawther,Julian,Strawther,1631124,['Denver Nuggets']
+450,Max Strus,Max,Strus,1629622,"['Chicago Bulls', 'Miami Heat', 'Cleveland Cavaliers']"
+451,Jalen Suggs,Jalen,Suggs,1630591,['Orlando Magic']
+452,Cole Swider,Cole,Swider,1631306,"['Los Angeles Lakers', 'Miami Heat']"
+453,Jae'Sean Tate,Jae'Sean,Tate,1630256,['Houston Rockets']
+454,Jayson Tatum,Jayson,Tatum,1628369,['Boston Celtics']
+455,Terry Taylor,Terry,Taylor,1630678,"['Indiana Pacers', 'Chicago Bulls']"
+456,Garrett Temple,Garrett,Temple,202066,"['Houston Rockets', 'Sacramento Kings', 'San Antonio Spurs', 'Milwaukee Bucks', 'Charlotte Hornets', 'Washington Wizards', 'Sacramento Kings', 'Memphis Grizzlies', 'Los Angeles Clippers', 'Brooklyn Nets', 'Chicago Bulls', 'New Orleans Pelicans', 'Toronto Raptors']"
+457,Dalen Terry,Dalen,Terry,1631207,['Chicago Bulls']
+458,Daniel Theis,Daniel,Theis,1628464,"['Boston Celtics', 'Chicago Bulls', 'Houston Rockets', 'Boston Celtics', 'Indiana Pacers', 'Los Angeles Clippers']"
+459,Cam Thomas,Cam,Thomas,1630560,['Brooklyn Nets']
+460,Amen Thompson,Amen,Thompson,1641708,['Houston Rockets']
+461,Ausar Thompson,Ausar,Thompson,1641709,['Detroit Pistons']
+462,Klay Thompson,Klay,Thompson,202691,['Golden State Warriors']
+463,Tristan Thompson,Tristan,Thompson,202684,"['Cleveland Cavaliers', 'Boston Celtics', 'Sacramento Kings', 'Indiana Pacers', 'Chicago Bulls', 'Cleveland Cavaliers']"
+464,JT Thor,JT,Thor,1630550,['Charlotte Hornets']
+465,Matisse Thybulle,Matisse,Thybulle,1629680,"['Philadelphia 76ers', 'Portland Trail Blazers']"
+466,Xavier Tillman,Xavier,Tillman,1630214,['Memphis Grizzlies']
+467,Jacob Toppin,Jacob,Toppin,1631210,['New York Knicks']
+468,Obi Toppin,Obi,Toppin,1630167,"['New York Knicks', 'Indiana Pacers']"
+469,Karl-Anthony Towns,Karl-Anthony,Towns,1626157,['Minnesota Timberwolves']
+470,Gary Trent Jr.,Gary,Trent Jr.,1629018,"['Portland Trail Blazers', 'Toronto Raptors']"
+471,Oscar Tshiebwe,Oscar,Tshiebwe,1631131,['Indiana Pacers']
+472,P.J. Tucker,P.J.,Tucker,200782,"['Toronto Raptors', 'Phoenix Suns', 'Toronto Raptors', 'Houston Rockets', 'Milwaukee Bucks', 'Miami Heat', 'Philadelphia 76ers', 'Los Angeles Clippers']"
+473,Myles Turner,Myles,Turner,1626167,['Indiana Pacers']
+474,Hunter Tyson,Hunter,Tyson,1641816,['Denver Nuggets']
+475,Stanley Umude,Stanley,Umude,1630649,['Detroit Pistons']
+476,Jonas Valanciunas,Jonas,Valanciunas,202685,"['Toronto Raptors', 'Memphis Grizzlies', 'New Orleans Pelicans']"
+477,Fred VanVleet,Fred,VanVleet,1627832,"['Toronto Raptors', 'Houston Rockets']"
+478,Jarred Vanderbilt,Jarred,Vanderbilt,1629020,"['Denver Nuggets', 'Minnesota Timberwolves', 'Utah Jazz', 'Los Angeles Lakers']"
+479,Devin Vassell,Devin,Vassell,1630170,['San Antonio Spurs']
+480,Sasha Vezenkov,Sasha,Vezenkov,1628426,['Sacramento Kings']
+481,Gabe Vincent,Gabe,Vincent,1629216,"['Miami Heat', 'Los Angeles Lakers']"
+482,Nikola Vucevic,Nikola,Vucevic,202696,"['Philadelphia 76ers', 'Orlando Magic', 'Chicago Bulls']"
+483,Dean Wade,Dean,Wade,1629731,['Cleveland Cavaliers']
+484,Franz Wagner,Franz,Wagner,1630532,['Orlando Magic']
+485,Moritz Wagner,Moritz,Wagner,1629021,"['Los Angeles Lakers', 'Washington Wizards', 'Boston Celtics', 'Orlando Magic']"
+486,Ish Wainright,Ish,Wainright,1630688,"['Phoenix Suns', 'Portland Trail Blazers']"
+487,Jabari Walker,Jabari,Walker,1631133,['Portland Trail Blazers']
+488,Jarace Walker,Jarace,Walker,1641716,['Indiana Pacers']
+489,Lonnie Walker IV,Lonnie,Walker IV,1629022,"['San Antonio Spurs', 'Los Angeles Lakers', 'Brooklyn Nets']"
+490,Cason Wallace,Cason,Wallace,1641717,['Oklahoma City Thunder']
+492,P.J. Washington,P.J.,Washington,1629023,['Charlotte Hornets']
+493,Duane Washington Jr.,Duane,Washington Jr.,1630613,"['Indiana Pacers', 'Phoenix Suns']"
+494,TyTy Washington Jr.,TyTy,Washington Jr.,1631102,"['Houston Rockets', 'Milwaukee Bucks']"
+495,Yuta Watanabe,Yuta,Watanabe,1629139,"['Memphis Grizzlies', 'Toronto Raptors', 'Brooklyn Nets', 'Phoenix Suns']"
+496,Lindy Waters III,Lindy,Waters III,1630322,['Oklahoma City Thunder']
+497,Trendon Watford,Trendon,Watford,1630570,"['Portland Trail Blazers', 'Brooklyn Nets']"
+498,Peyton Watson,Peyton,Watson,1631212,['Denver Nuggets']
+499,Victor Wembanyama,Victor,Wembanyama,1641705,['San Antonio Spurs']
+500,Blake Wesley,Blake,Wesley,1631104,['San Antonio Spurs']
+501,Russell Westbrook,Russell,Westbrook,201566,"['Oklahoma City Thunder', 'Houston Rockets', 'Washington Wizards', 'Los Angeles Lakers', 'Los Angeles Clippers']"
+502,Coby White,Coby,White,1629632,['Chicago Bulls']
+503,Derrick White,Derrick,White,1628401,"['San Antonio Spurs', 'Boston Celtics']"
+504,Dariq Whitehead,Dariq,Whitehead,1641727,['Brooklyn Nets']
+505,Cam Whitmore,Cam,Whitmore,1641715,['Houston Rockets']
+506,Aaron Wiggins,Aaron,Wiggins,1630598,['Oklahoma City Thunder']
+507,Andrew Wiggins,Andrew,Wiggins,203952,"['Minnesota Timberwolves', 'Golden State Warriors']"
+508,Lindell Wigginton,Lindell,Wigginton,1629623,['Milwaukee Bucks']
+509,Grant Williams,Grant,Williams,1629684,"['Boston Celtics', 'Dallas Mavericks']"
+510,Jalen Williams,Jalen,Williams,1631114,['Oklahoma City Thunder']
+511,Jaylin Williams,Jaylin,Williams,1631119,['Oklahoma City Thunder']
+512,Kenrich Williams,Kenrich,Williams,1629026,"['New Orleans Pelicans', 'Oklahoma City Thunder']"
+513,Mark Williams,Mark,Williams,1631109,['Charlotte Hornets']
+514,Nate Williams,Nate,Williams,1631466,"['Portland Trail Blazers', 'Houston Rockets']"
+515,Patrick Williams,Patrick,Williams,1630172,['Chicago Bulls']
+516,Ziaire Williams,Ziaire,Williams,1630533,['Memphis Grizzlies']
+517,Robert Williams III,Robert,Williams III,1629057,"['Boston Celtics', 'Portland Trail Blazers']"
+518,Vince Williams Jr.,Vince,Williams Jr.,1631246,['Memphis Grizzlies']
+519,Zion Williamson,Zion,Williamson,1629627,['New Orleans Pelicans']
+520,Jalen Wilson,Jalen,Wilson,1630592,['Brooklyn Nets']
+521,Dylan Windler,Dylan,Windler,1629685,"['Cleveland Cavaliers', 'New York Knicks']"
+522,James Wiseman,James,Wiseman,1630164,"['Golden State Warriors', 'Detroit Pistons']"
+524,Christian Wood,Christian,Wood,1626174,"['Philadelphia 76ers', 'Charlotte Hornets', 'Milwaukee Bucks', 'New Orleans Pelicans', 'Detroit Pistons', 'Houston Rockets', 'Dallas Mavericks', 'Los Angeles Lakers']"
+525,Delon Wright,Delon,Wright,1626153,"['Toronto Raptors', 'Memphis Grizzlies', 'Dallas Mavericks', 'Detroit Pistons', 'Sacramento Kings', 'Atlanta Hawks', 'Washington Wizards']"
+526,Thaddeus Young,Thaddeus,Young,201152,"['Philadelphia 76ers', 'Minnesota Timberwolves', 'Brooklyn Nets', 'Indiana Pacers', 'Chicago Bulls', 'San Antonio Spurs', 'Toronto Raptors']"
+527,Trae Young,Trae,Young,1629027,['Atlanta Hawks']
+528,Omer Yurtseven,Omer,Yurtseven,1630209,"['Miami Heat', 'Utah Jazz']"
+529,Cody Zeller,Cody,Zeller,203469,"['Charlotte Hornets', 'Portland Trail Blazers', 'Miami Heat', 'New Orleans Pelicans']"
+530,Ivica Zubac,Ivica,Zubac,1627826,"['Los Angeles Lakers', 'Los Angeles Clippers']"
